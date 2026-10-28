@@ -4,7 +4,7 @@
 ## Name : Rajesh Kumar R 
 ## Register Number : 711524BEE043
 
-## Project Description
+## Project Description:
 
 The Parking Management System is a web-based application developed to simplify and improve vehicle parking operations. It enables users to register vehicle entries, allocate parking slots automatically, monitor available and occupied spaces, and manage vehicle exits. The system calculates parking fees based on vehicle type and parking duration. Its user-friendly interface and automated processes help reduce manual work, improve parking efficiency, and provide a convenient parking management experience.
 
