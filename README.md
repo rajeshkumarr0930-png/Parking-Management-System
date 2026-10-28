@@ -94,14 +94,8 @@ Parking_Management_System/
 - Real-time parking sensors and IoT-based slot monitoring.
 - Parking reservation and booking functionality.
 
-## Repository Link
-
-**GitHub Repository:** [Paste Your GitHub Repository URL Here]
-
 ## Conclusion
 
 The Parking Management System provides a simple and efficient solution for managing parking spaces. By automating slot allocation, vehicle tracking, and fee calculation, the application helps improve convenience, accuracy, and overall parking management efficiency.
 
----
 
-**Note:** This is an academic demonstration project. The current version stores parking data in memory, so records reset when the application restarts.
